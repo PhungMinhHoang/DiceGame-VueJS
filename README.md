@@ -1,4 +1,4 @@
-# hellow
+# Dice Game
 
 > A Vue.js project
 
